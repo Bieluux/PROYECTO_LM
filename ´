@@ -1,0 +1,79 @@
+* [33mcommit e984758d3ca7089248d98094fdc854dffa7724f9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+[31m|[m Author: Bielux <biel.maass@gmail.com>
+[31m|[m Date:   Sun Jan 7 13:03:48 2024 +0100
+[31m|[m 
+[31m|[m     Arreglamos error
+[31m|[m 
+* [33mcommit 7c6941adebc21b885a2e6f8a0287105317eb3c1d[m
+[31m|[m Author: Bielux <biel.maass@gmail.com>
+[31m|[m Date:   Sun Jan 7 13:01:10 2024 +0100
+[31m|[m 
+[31m|[m     error
+[31m|[m   
+*   [33mcommit 435e1f445c87e959326bd97de4d75d2ce8a0ff54[m
+[32m|[m[33m\[m  Merge: 20d48e0 f30a4ca
+[32m|[m [33m|[m Author: Bielux <biel.maass@gmail.com>
+[32m|[m [33m|[m Date:   Sun Jan 7 10:49:17 2024 +0100
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Merge branch 'Prueba'
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit f30a4cad1bb74c9010aadf86d529de1e3a297668[m
+[32m|[m [33m|[m Author: Bielux <biel.maass@gmail.com>
+[32m|[m [33m|[m Date:   Sun Jan 7 10:46:35 2024 +0100
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Actualizamos prueba de rama ajena
+[32m|[m [33m|[m 
+* [33m|[m [33mcommit 20d48e04be5c8a27e579d148c0bb6d1e0da7b94d[m
+[33m|[m[33m/[m  Author: Bielux <biel.maass@gmail.com>
+[33m|[m   Date:   Sun Jan 7 10:48:42 2024 +0100
+[33m|[m   
+[33m|[m       New inicio
+[33m|[m 
+* [33mcommit 5b403ada170cd073e355e5fac91c21954bca8999[m
+[33m|[m Author: Bielux <biel.maass@gmail.com>
+[33m|[m Date:   Sun Jan 7 10:25:44 2024 +0100
+[33m|[m 
+[33m|[m     Actualizamos prueba a prueba 2.0
+[33m|[m   
+*   [33mcommit 6cd262b2af22252278007e1ecb6bcaaa7b9372c8[m[33m ([m[1;33mtag: [m[1;33mPruebaInicio2.0[m[33m)[m
+[34m|[m[35m\[m  Merge: 4cdaa42 eba5f63
+[34m|[m [35m|[m Author: Bielux <biel.maass@gmail.com>
+[34m|[m [35m|[m Date:   Thu Jan 4 17:25:57 2024 +0100
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     Merge branch 'Inicio'
+[34m|[m [35m|[m 
+[34m|[m * [33mcommit eba5f6316a6a739f7d20f2abe3196682bbadcb81[m
+[34m|[m [35m|[m Author: Bielux <biel.maass@gmail.com>
+[34m|[m [35m|[m Date:   Thu Jan 4 17:20:09 2024 +0100
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     Inicio rama act
+[34m|[m [35m|[m 
+* [35m|[m [33mcommit 4cdaa427613347399b668ee3b4af9e2989f534b4[m
+[35m|[m[35m/[m  Author: Bielux <biel.maass@gmail.com>
+[35m|[m   Date:   Thu Jan 4 17:25:07 2024 +0100
+[35m|[m   
+[35m|[m       Act prueba
+[35m|[m 
+* [33mcommit 25aeac99fd2bea7a1dc1982456db3875d132f052[m
+[35m|[m Author: Bielux <biel.maass@gmail.com>
+[35m|[m Date:   Wed Jan 3 19:41:28 2024 +0100
+[35m|[m 
+[35m|[m     Iniciamos inicio pagina web
+[35m|[m 
+* [33mcommit 112adc8bcc2fe2fa09c10953e3479f6b9be0c224[m
+[35m|[m Author: Bielux <biel.maass@gmail.com>
+[35m|[m Date:   Wed Jan 3 19:33:47 2024 +0100
+[35m|[m 
+[35m|[m     Actualizamos HTML PRUEBA
+[35m|[m 
+* [33mcommit 73d1b3d0690e05f5f732d246a98b232f5536ef0f[m[33m ([m[1;33mtag: [m[1;33mPruebaInicio[m[33m)[m
+[35m|[m Author: Bielux <biel.maass@gmail.com>
+[35m|[m Date:   Wed Jan 3 19:21:57 2024 +0100
+[35m|[m 
+[35m|[m     Introduciomis contenido en el htmml Prueba
+[35m|[m 
+* [33mcommit d84368d9cf0474ded9b55db45bb3981c7a706134[m
+  Author: Bielux <biel.maass@gmail.com>
+  Date:   Wed Jan 3 19:08:12 2024 +0100
+  
+      Commit de prueba sobre el trabajo de lenguajes de marcas
